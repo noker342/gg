@@ -1,1 +1,2 @@
+print('ewq')
 print('ой')
