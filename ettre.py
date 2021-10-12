@@ -1,2 +1,2 @@
-print('ой')
-print('ewq')
+print('йо')
+print('321')
