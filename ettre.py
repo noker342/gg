@@ -1,2 +1,2 @@
-print('ewq')
 print('ой')
+print('ewq')
